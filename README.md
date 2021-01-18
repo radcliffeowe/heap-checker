@@ -1,0 +1,2 @@
+# heap-checker
+Project dealing with data structures in Java, had to develop methods to test if a given heap was still a heap after an element was added or the minimum element was removed. Straightforward code, more of a project in the properties of different data structures and testing problems that have multiple correct solutions. Disregard TestHeap classes, they were examples given by professor, not used in the program.
